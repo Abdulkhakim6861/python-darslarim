@@ -19,3 +19,5 @@ for son in sonlar:
 dostlar = []
 ####
 sonlar = range(11)
+
+print("Hello wrold")
